@@ -1,4 +1,3 @@
-import tkinter as tk
 import customtkinter
 from pytubefix import YouTube,Playlist
 from pytubefix.exceptions import RegexMatchError
@@ -12,7 +11,7 @@ main_app = customtkinter.CTk()
 main_app.geometry("400x300")
 main_app.title("Youtube Downloader")
 main_app.resizable(0,0)
-main_app.iconphoto(False, tk.PhotoImage("icons/youtube.ico"))
+
 
 #a bunch of labels
 text_box = customtkinter.CTkLabel(main_app,text="Enter Video URL:",font=('Fira Code', 15,'bold'))

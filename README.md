@@ -34,7 +34,10 @@ pyinstaller --onefile main_app.py --icon=icons/youtube.ico
 
 ## Screenshots
 
-![Windows Screenshot](https://github.com/DarkMatter-D/Simple-YT-Downloader/blob/main/screenshots/error%20screenshot.png) ![Windows Screenshot](https://github.com/DarkMatter-D/Simple-YT-Downloader/blob/main/screenshots/windows_screenshot.png)![Linux Screenshot](https://github.com/DarkMatter-D/Simple-YT-Downloader/blob/main/screenshots.Linux_error.png)![Linux Screenshot](https://github.com/DarkMatter-D/Simple-YT-Downloader/blob/main/screenshots/Linux.png)
+![Windows Screenshot](https://github.com/DarkMatter-D/Simple-YT-Downloader/blob/main/screenshots/error%20screenshot.png) 
+![Windows Screenshot](https://github.com/DarkMatter-D/Simple-YT-Downloader/blob/main/screenshots/windows_screenshot.png)
+![Linux Screenshot](https://github.com/DarkMatter-D/Simple-YT-Downloader/blob/main/screenshots/Linux_error.png)
+![Linux Screenshot](https://github.com/DarkMatter-D/Simple-YT-Downloader/blob/main/screenshots/Linux.png)
 
 
 

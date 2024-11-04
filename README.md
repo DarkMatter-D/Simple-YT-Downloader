@@ -22,7 +22,7 @@ all the files will be stored in the output folder, if you want to change this ch
 ### This code works on both windows and linux without errors(so far)
 ## Executable
 
-if you want an executable for windows for ease you can just use the integrated python module that was already installed in requirements.txt
+if you want an executable for windows for ease you can just use pyinstaller to create an executable
 
 ```
 pyinstaller --onefile main_app.py --icon=icons/youtube.ico

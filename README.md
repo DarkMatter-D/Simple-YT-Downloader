@@ -34,3 +34,5 @@ pyinstaller --onefile main_app.py --icon=icons/youtube.ico
 
 ## Screenshots
 
+![Windows Screenshot](https://github.com/DarkMatter-D/Simple-YT-Downloader/blob/main/screenshots/error%20screenshot.png)
+

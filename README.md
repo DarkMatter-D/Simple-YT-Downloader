@@ -1,4 +1,4 @@
-# **SimpleDeathChest**
+# **Simple YT-Downloader**
 ### Fast,Usefull,Very Simple Python Downloader
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 

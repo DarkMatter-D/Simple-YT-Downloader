@@ -2,4 +2,4 @@ pytubefix
 customtkinter
 pypiwin32
 pyinstaller
-tkinter
+tk

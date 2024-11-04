@@ -1,5 +1,5 @@
 # **Simple YT-Downloader**
-### Fast,Usefull,Very Simple Python Downloader
+### Fast,Useful,Very Simple Python Downloader
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
 ## Requirements:
@@ -8,7 +8,6 @@ Very simple install: just use pip!
 
 ```
 pip install -r requirements.txt
-
 ```
 
 ## Usage:

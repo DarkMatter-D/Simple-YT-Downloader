@@ -1,5 +1,4 @@
 pytubefix
 customtkinter
-pypiwin32
 pyinstaller
 tk
